@@ -3,7 +3,7 @@
 
 ### Шаг 1: Регистрация приложения в GitHub
 
-Зарегистрируйте своё приложение в GitHub, чтобы получить Client ID и Client Secret (см. файл GetClientId.md).
+Зарегистрируйте своё приложение в GitHub, чтобы получить Client ID и Client Secret (см. файл CreateClientId.md).
 
 ### Шаг 2: Добавление зависимостей
 
